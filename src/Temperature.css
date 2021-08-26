@@ -1,0 +1,28 @@
+h1 {
+  font-weight: 700;
+  padding-top: 10px;
+  padding-bottom: 2px;
+  text-transform: capitalize;
+}
+
+ul {
+  list-style: none;
+  font-size: large;
+  padding-top: 1px;
+  padding-bottom: 2px;
+}
+
+#weather-description {
+  text-transform: capitalize;
+}
+
+.row {
+  text-align: center;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+.main {
+  font-size: 90px;
+  font-weight: 800;
+}

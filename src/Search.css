@@ -1,0 +1,18 @@
+.form-control {
+  background-color: #c1eaec;
+  border-color: #1ab2a8;
+  border-width: 2px;
+}
+
+#city-input {
+  padding: 0;
+  background-color: #c1eaec;
+  border-color: #1ab2a8;
+  border-width: 2px;
+  border: none;
+  width: 90%;
+}
+
+#button {
+  color: grey;
+}
