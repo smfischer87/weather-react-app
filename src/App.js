@@ -13,6 +13,8 @@ function App() {
             <Temperature />
           </div>
         </div>
+        <footer>Coded by Susan Fischer, and is <a href="https://github.com/smfischer87/weather-react-app">open-sourced</a>.
+            </footer>
       </div>
     </div>
   );
